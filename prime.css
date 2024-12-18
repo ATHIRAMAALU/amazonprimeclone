@@ -1,0 +1,65 @@
+#prime{
+    font-weight: bolder;
+    color: white;
+    font-size: 25px;
+}
+#men{
+    color: white;
+    
+}
+    
+#en{
+    color: white;
+}
+.container1{
+    margin-top: 100px;
+    color: white;
+}
+.img{
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;}
+    .container2{
+        margin-top: 100px;
+        color: white;
+    }
+    .container3{
+        margin-top: 100px;
+        color: white;
+    }
+.img1{
+    height: 100px;
+    width: 250px;
+    
+ 
+    border-radius: 35px;
+    
+    
+}  
+.cont4{
+    margin-top: 40px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(35, 34, 34);
+    text-align: center;
+    color: rgb(121, 121, 219);
+
+} 
+.botm{
+    display: inline-block;
+    justify-content: space-around;
+    padding: 10px;
+    
+    
+    
+}
+.para{
+    color: rgb(85, 85, 90);
+    padding-bottom: 20px;
+}
+    
+
+
+
+
+    
